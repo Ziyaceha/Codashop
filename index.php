@@ -6,4 +6,4 @@ header('Location: https://facebook.com/yulio6166');
 die();
 }
 ?>
-<meta http-equiv="refresh" content="0;url=id/free-fire" />
+<meta http-equiv="refresh" content="0;url=../free-fire" />
